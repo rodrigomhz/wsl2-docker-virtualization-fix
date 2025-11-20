@@ -219,9 +219,6 @@ newgrp docker
 ````
 docker run hello-world
 ````
-````
-Hello from Docker!
-````
 Respuesta (Muestra de un correcto funcionamiento)
 ````
 Hello from Docker!
